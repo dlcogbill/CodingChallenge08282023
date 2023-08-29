@@ -4,6 +4,7 @@ Revature Project Onboarding Coding Challenge 08282023
 Weekly Coding Challenges
 
 Java:
+CodingChallenge08282023/src/main/java/com/revature/CodingChallenge.java
 
 Given an array of integers, return the largest gap between the sorted elements of the array.
 
@@ -25,6 +26,7 @@ largestGap([13, 3, 8, 5, 5, 2, 13, 6, 14, 2, 11, 4, 10, 8, 1, 9]) ➞ 2
 // Largest gap between 6 and 8 is 2
 
 JavaScript:
+CodingChallenge08282023/javascript/CodingChallenge.js
 
 Create a function that determines whether a number is Oddish or Evenish. A number is Oddish if the sum of all of its digits is odd, and a number is Evenish if the sum of all of its digits is even. If a number is Oddish, return "Oddish". Otherwise, return "Evenish".
 
@@ -42,6 +44,7 @@ oddishOrEvenish(4433) ➞ "Evenish"
 // 14 % 2 = 0
 
 </code>Python:
+CodingChallenge08282023/python/coding_challenge.py
 
 Write a function that takes a number and returns the perimeter of either a circle or a square. The input will be in the form (letter l, number num) where the letter will be either "s" for square, or "c" for circle, and the number will be the side of the square or the radius of the circle.
 
